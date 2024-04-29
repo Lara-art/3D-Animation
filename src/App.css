@@ -1,0 +1,6 @@
+#root {
+  width: 100vw;
+  height: 100vh;
+  background: #FFDCC4;
+  background: linear-gradient(135deg, #FFDCC4, #FFF3D0);
+}
